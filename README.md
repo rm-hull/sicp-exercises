@@ -1,4 +1,4 @@
-sicp-exercises
+SICP-exercises
 ==============
 
-SICP exercises in Scala
+[SICP](http://mitpress.mit.edu/sicp/) exercises in Scala.
